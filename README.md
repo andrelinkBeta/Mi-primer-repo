@@ -7,4 +7,5 @@
 > ## Juan Miguel Cordón Chacón - Carné No. 26342
   ## Gabriel Enrique García Hernández - Carné No. 26596
 > ## Primera publicación en Github para conocer más del sitio.
+> ## Otto Andrés De León Lemus - Carné No. 261951
 
